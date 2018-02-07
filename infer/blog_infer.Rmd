@@ -273,7 +273,7 @@ knitr::include_graphics('carey_dancing.gif')
 
 
 ## Conclusion  
-Two things stand out to me about `infer`. One if that is makes me think through the steps of what I'm doing, and the verbs in `infer` are reusable. Two, I save time because everything happens in a tidy way that plays well with `dplyr`. This makes it easy to hypothesis test, mutate and summarise new variables, pipe results into a `ggplot`, and overall spend less time working with lists and other data structures that I wrestle with in base R.    
+Two things stand out to me about `infer`. One is that it makes me think through the steps of what I'm doing, and the verbs in `infer` are reusable. Two, I save time because everything happens in a tidy way that plays well with `dplyr`. This makes it easy to hypothesis test, mutate and summarise new variables, pipe results into a `ggplot`, and overall spend less time working with lists and other data structures that I wrestle with in base R.    
 
 I look forward to seeing what's down the line from `infer`. It seems like a powerful and concise way to perform statistical inference and hypothesis test. Thanks to Andrew Bray for the excellent talk, and the developers of `infer` for working on tidy and expressive statistical inference.  
 
