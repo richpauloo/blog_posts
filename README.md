@@ -1,1 +1,1 @@
-# blog_posts
+Where I keep all of my blog posts and supporting material at [richpauloo.github.io](richpauloo.github.io).
