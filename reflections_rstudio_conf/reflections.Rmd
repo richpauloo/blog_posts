@@ -125,7 +125,11 @@ knitr::include_graphics('blog_img/tacos.jpg')
 ```
 *Fish tacos.* <br />
 
+***
 
-
+#### Special thanks to @sharon000 for this sweet unintentional pic of me and Nik! Gotta love front row seats.  
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Last year&#39;s Rstudio conference had about 400 attendees. This year, more than 1,100 registered and about 1,200 expected. Sign of growing interest in RStudio/tidyverse, R language in general or both <a href="https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/ewmTwR6BWn">pic.twitter.com/ewmTwR6BWn</a></p>&mdash; Sharon Machlis (@sharon000) <a href="https://twitter.com/sharon000/status/959474531566931968?ref_src=twsrc%5Etfw">February 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+*twitter famous to my now 10 followers (thanks for pushing me into double digits Mom!)*
 
 
