@@ -2,6 +2,9 @@
 output: html_document
 ---
 
+10 minute read  
+
+[Slides for the conference can be found here.](https://github.com/simecek/RStudioConf2018Slides)  
 
 ```{r, out.width = "1000px", echo=FALSE}
 knitr::include_graphics("blog_img/r_conf.png")
