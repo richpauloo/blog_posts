@@ -2,13 +2,15 @@
 output: html_document
 ---
 
-10 minute read  
+> 10 minute read  
 
 [Slides for the conference can be found here.](https://github.com/simecek/RStudioConf2018Slides)  
 
 ```{r, out.width = "1000px", echo=FALSE}
 knitr::include_graphics("blog_img/r_conf.png")
 ```
+*photo credit: [Sharon Machlis](https://twitter.com/sharon000)*  
+
 
 Heading North on I-5, we pass by brown hills and palm trees as San Diego fades in the rear view mirror. The smell of last night's beach bonfire wafts from our jackets stowed in the back seat, and Google Maps notifies us we're about 7 hours from our respective destinations: Berkeley and Davis, CA.  
 
